@@ -11,6 +11,7 @@
     "url": "git+https://github.com/S4liz/react-native-multiple-picker.git"
   },
   "dependencies": {
+    "prop-types": "15.6.0",
     "react-native-linear-gradient": "^2.3.0"
   },
   "keywords": [
@@ -24,7 +25,6 @@
     "date-picker",
     "time-picker",
     "wheel-picker"
-
   ],
   "author": "Mojtaba Izadmehr",
   "license": "MIT",
